@@ -17,6 +17,14 @@
 8. [x] ** Commit **
    1. [x] git commit -m "chore: add typescript"
 9. [x] add eslint
-   1.  [ ] Add modules 
-   2.  [ ] `yarn add -D typescript@\* eslint@^7.12.1 eslint-plugin-promise@^5.0.0 eslint-plugin-import@^2.22.1 eslint-plugin-node@^11.1.0 @typescript-eslint/eslint-plugin@^4.0.1 eslint-config-standard-with-typescript@latest`
+   1.  [x] Add modules `yarn add -D typescript@\* eslint@^7.12.1 eslint-plugin-promise@^5.0.0 eslint-plugin-import@^2.22.1 eslint-plugin-node@^11.1.0 @typescript-eslint/eslint-plugin@^4.0.1 eslint-config-standard-with-typescript@latest`
+   2.  [x] create .eslintrc.json
+   3.  [x] create .eslintignore.json
+10. [x] yarn add -D husky
+    1.  [x] create .huskyrc.json
+11. [x] yarn add -D lint-staged
+12. [ ] ** Commit **
+13. [ ] yarn add -D jest @types/jest ts-jest
+14. [ ] jest --init
+15. [ ] npm install -g jest
   
