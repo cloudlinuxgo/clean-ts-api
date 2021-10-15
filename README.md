@@ -15,3 +15,4 @@
 6. [x] create tsconfig file
 7. [x] add dist folder to .gitignore
 8. [x] ** Commit **
+   1. [ ] 
