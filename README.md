@@ -24,7 +24,12 @@
     1.  [x] create .huskyrc.json
 11. [x] yarn add -D lint-staged
 12. [ ] ** Commit **
-13. [ ] yarn add -D jest @types/jest ts-jest
-14. [ ] jest --init
-15. [ ] npm install -g jest
+    1.  [ ] git commit -m "chore: add husky and lint staged"
+13. [ ] yarn add -D jest @types/jest ts-jest ts-node
+14. [ ] npm install -g jest
+15. [ ] jest --init
+    1.  [ ] Y Y node Y v8 N
+    2.  [ ] change jest.config.ts
+16. [ ] ** Commit **
+    1.  [ ] git commit -m "chore: add jest"
   
